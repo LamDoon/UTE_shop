@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NgoLamDoon</string>
+    <string-array name="tinh">
+        <item>Đà Nẵng</item>
+        <item>Khánh Hoà</item>
+        <item>Hà Nội</item>
+        <item>TP HCM</item>
+    </string-array>
+    <string-array name="quan">
+        <item>Hải Châu</item>
+        <item>Liên Chiểu</item>
+        <item>Ngũ Hành Sơn</item>
+        <item>Cẩm Lệ</item>
+        <item>Sơn Trà</item>
+    </string-array>
+</resources>
